@@ -1,2 +1,2 @@
-# my-1st.github.io
+.github.io
 info101stuff
