@@ -1,2 +1,2 @@
-.github.io
+github.io
 info101stuff
