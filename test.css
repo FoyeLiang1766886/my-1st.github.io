@@ -1,0 +1,95 @@
+ #Header {
+     width: 500px;
+     margin-left : auto;
+     margin-right : auto;
+     margin-bottom : 10px;
+     border : solid 8px black;
+     text-align: center;
+     background-color: brown;
+ }
+
+ #LeftNav {
+     width: 400px;
+     border : solid 8px black;
+     float : left;
+     text-align: center;
+     pedding-bottom : 8px;
+     background-color: brown;
+ }
+
+ #Content {
+     width: 700px;
+     border : solid 8px black;
+     margin-left : auto;
+     margin-right : auto;
+     margin-bottom : 10px;
+     text-align: center;
+     pedding: 15px;
+     background-color: brown;
+ }
+
+ #Footer {
+    border : solid 8px black;
+    text-align: center;
+    background-color: brown;
+ }
+
+ ul {
+    list-style-type: none;
+    padding-left : 0px; 
+ }
+
+ #Header h1 {
+     font-size: 60px;
+     font-family: "Passion One";
+     color : blue;
+     font-weight: bold;
+     background-color: brown;
+ }
+
+ body {
+     background-color: aqua;
+     background-image: url('1.jpg');
+ }
+
+ p {
+     color: white;
+     font-family: "Arial";
+     font-weight: bold;  
+ }
+
+ h3 {
+    font-family: "Passion One";
+    color : rgb(0, 255, 179);
+    font-weight: bold;
+    font-size: 40px;
+ }
+
+ a {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+ }
+
+ ul.a {
+    list-style-position: outside;
+}
+
+div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+img {
+    float: right;
+}
+
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+
+
+
